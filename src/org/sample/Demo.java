@@ -9,6 +9,11 @@ public class Demo {
 		
 
 	}
+	
+	private void m2() {
+		System.out.println("Rock coding is Ready...");
+
+	}
 	public static void main(String[] args) {
 		
 		System.out.println("All is Well");
